@@ -29,13 +29,13 @@
         null
       ],
       [
-        "الصناعات الغذائية",
+        "صناعة البخور والعطور",
         11,
         null,
         null
       ],
       [
-        "صناعة البخور والعطور",
+        "الصناعات الغذائية",
         11,
         null,
         null
@@ -60,91 +60,50 @@
       ]
     ]
   },
-  "غدامس": {
-    "total": 69,
-    "male": 9,
-    "female": 60,
+  "ترهونة": {
+    "total": 8,
+    "male": null,
+    "female": null,
     "crafts": [
       [
-        "الصناعات الجلدية",
-        36,
-        null,
-        null
-      ],
-      [
-        "أخرى",
-        16,
-        null,
-        null
-      ],
-      [
-        "الصناعات الغذائية",
-        15,
-        null,
-        null
-      ],
-      [
-        "صناعة الزي التقليدي النسائي",
-        11,
-        null,
-        null
-      ],
-      [
-        "صناعة البخور والعطور",
-        11,
-        null,
-        null
-      ],
-      [
-        "صناعة الخرازيات",
-        8,
+        "صناعة السروج",
+        6,
         null,
         null
       ]
     ]
   },
-  "غات": {
-    "total": 57,
-    "male": null,
-    "female": null,
+  "غريان": {
+    "total": 17,
+    "male": 12,
+    "female": 5,
     "crafts": [
       [
-        "أخرى",
-        18,
-        null,
-        null
-      ],
-      [
-        "الصناعات الجلدية",
-        14,
-        null,
-        null
-      ],
-      [
-        "صناعة الخرازيات",
-        13,
-        null,
-        null
-      ],
-      [
-        "الصناعات الغذائية",
-        10,
-        null,
-        null
-      ],
-      [
-        "صناعة الزي التقليدي النسائي",
-        8,
-        null,
-        null
-      ],
-      [
-        "صناعة النسيج",
-        8,
+        "صناعة الفخار",
+        11,
         null,
         null
       ]
     ]
+  },
+  "جادو": {
+    "total": 17,
+    "male": null,
+    "female": null,
+    "crafts": [
+      [
+        "صناعة النسيج",
+        13,
+        null,
+        null
+      ]
+    ]
+  },
+  "نالوت": {
+    "total": 7,
+    "male": null,
+    "female": null,
+    "crafts": []
   },
   "زوارة": {
     "total": 55,
@@ -183,6 +142,61 @@
       ]
     ]
   },
+  "غدامس": {
+    "total": 69,
+    "male": 9,
+    "female": 60,
+    "crafts": [
+      [
+        "الصناعات الجلدية",
+        36,
+        8,
+        28
+      ],
+      [
+        "أخرى",
+        16,
+        null,
+        null
+      ],
+      [
+        "الصناعات الغذائية",
+        15,
+        null,
+        null
+      ],
+      [
+        "صناعة البخور والعطور",
+        11,
+        null,
+        null
+      ],
+      [
+        "صناعة الزي التقليدي النسائي",
+        11,
+        null,
+        null
+      ],
+      [
+        "صناعة الخرازيات",
+        8,
+        null,
+        null
+      ]
+    ]
+  },
+  "طبرق": {
+    "total": 6,
+    "male": null,
+    "female": null,
+    "crafts": []
+  },
+  "البيضاء": {
+    "total": 6,
+    "male": null,
+    "female": null,
+    "crafts": []
+  },
   "بنغازي": {
     "total": 40,
     "male": null,
@@ -200,6 +214,19 @@
         null,
         null
       ],
+      [
+        "الصناعات الغذائية",
+        5,
+        null,
+        null
+      ]
+    ]
+  },
+  "أوجلة": {
+    "total": 9,
+    "male": null,
+    "female": null,
+    "crafts": [
       [
         "الصناعات الغذائية",
         5,
@@ -252,96 +279,60 @@
       ]
     ]
   },
-  "غريان": {
-    "total": 17,
-    "male": 12,
-    "female": 5,
-    "crafts": [
-      [
-        "صناعة الفخار",
-        11,
-        null,
-        null
-      ]
-    ]
-  },
-  "جادو": {
-    "total": 17,
-    "male": null,
-    "female": null,
-    "crafts": []
-  },
-  "جنزور": {
-    "total": 16,
+  "تراغن": {
+    "total": 8,
     "male": null,
     "female": null,
     "crafts": [
       [
         "الصناعات الغذائية",
-        8,
-        null,
-        null
-      ],
-      [
-        "صناعة الزي التقليدي النسائي",
         5,
         null,
         null
       ]
     ]
   },
-  "درج": {
-    "total": 12,
+  "غات": {
+    "total": 57,
     "male": null,
     "female": null,
-    "crafts": []
-  },
-  "أوجلة": {
-    "total": 9,
-    "male": null,
-    "female": null,
-    "crafts": []
-  },
-  "ترهونة": {
-    "total": 8,
-    "male": null,
-    "female": null,
-    "crafts": []
-  },
-  "تراغن": {
-    "total": 8,
-    "male": null,
-    "female": null,
-    "crafts": []
-  },
-  "نالوت": {
-    "total": 7,
-    "male": null,
-    "female": null,
-    "crafts": []
-  },
-  "البيضاء": {
-    "total": 6,
-    "male": null,
-    "female": null,
-    "crafts": []
-  },
-  "طبرق": {
-    "total": 6,
-    "male": null,
-    "female": null,
-    "crafts": []
-  },
-  "الزنتان": {
-    "total": 5,
-    "male": null,
-    "female": null,
-    "crafts": []
-  },
-  "تاورغاء": {
-    "total": null,
-    "male": null,
-    "female": null,
-    "crafts": []
+    "crafts": [
+      [
+        "أخرى",
+        18,
+        null,
+        null
+      ],
+      [
+        "الصناعات الجلدية",
+        14,
+        null,
+        null
+      ],
+      [
+        "صناعة الخرازيات",
+        13,
+        null,
+        null
+      ],
+      [
+        "الصناعات الغذائية",
+        10,
+        null,
+        null
+      ],
+      [
+        "صناعة الزي التقليدي النسائي",
+        8,
+        null,
+        null
+      ],
+      [
+        "صناعة النسيج",
+        8,
+        null,
+        null
+      ]
+    ]
   }
 }
